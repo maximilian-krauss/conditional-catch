@@ -10,6 +10,7 @@
     "try",
     "error"
   ],
+  "repository": "maximilian-krauss/conditional-catch",
   "scripts": {
     "test": "ava --verbose"
   },
