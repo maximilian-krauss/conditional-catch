@@ -1,0 +1,20 @@
+// Use this file as a starting point for your project's .eslintrc.
+// Copy this file, and add rule overrides as needed.
+{
+    "extends": "airbnb-base",
+    "globals": {
+        "afterEach": false,
+        "beforeEach": false,
+        "before": false,
+        "after": false,
+        "describe": false,
+        "expect": false,
+        "it": false
+    },
+    "rules": {
+        "guard-for-in": 0,
+        "no-restricted-syntax": 0,
+        "arrow-parens": 0
+    }
+
+  }
