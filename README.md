@@ -4,6 +4,8 @@
 
 [![NPM](https://nodei.co/npm/conditional-catch.png?compact=true)](https://npmjs.org/package/conditional-catch)
 
+[![Build Status](https://travis-ci.org/maximilian-krauss/conditional-catch.svg?branch=master)](https://travis-ci.org/maximilian-krauss/conditional-catch)
+
 ## API
 
 This module exports a class `ConditionalCatch` which should only be created via the static function `ConditionalCatch.createFrom(error: Error)`.
